@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sapeos",
+  "info": {
+    "singularName": "sapeo",
+    "pluralName": "sapeos",
+    "displayName": "Sapeo",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "descriptionSapeo": {
+      "type": "text"
+    }
+  }
+}
